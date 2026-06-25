@@ -68,10 +68,6 @@ main {
 footer {
     width: 100vw;
     height: 20vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 3%;
 }
 
 #titleHeader {
